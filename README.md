@@ -45,8 +45,8 @@
 To play "Purr Saver," you need to have Python and Pygame installed. Once installed, you can clone the game repository and run the main script to start the game.
 
 ```bash
-git clone <repository-url>
-cd Purr-Saver-FPS-Game
+git clone https://github.com/s8aH/purr-saver-fps-game
+cd purr-saver-fps-game
 python main.py
 
 ## License
