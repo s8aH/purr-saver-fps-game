@@ -4,6 +4,8 @@
 
 "Purr Saver" is a family-friendly first-person shooter (FPS) game developed using Python and Pygame library. In this game, players embark on a quest to rescue a kitten from the clutches of coyotes. 
 
+![Purr Saver Demo](resources/demo.gif)
+
 ## Features
 
 - **Engaging Storyline**: Dive into a unique FPS experience that combines action with emotional depth. Save the kitten and become a hero!
